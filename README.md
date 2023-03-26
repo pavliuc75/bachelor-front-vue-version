@@ -18,10 +18,11 @@
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-5.png?resize=106,230)&nbsp;&nbsp;&nbsp;
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-6.png?resize=106,230)&nbsp;&nbsp;&nbsp;
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-7.png?resize=106,230)&nbsp;&nbsp;&nbsp;
+<br/><br/>
+<sub>*[Demo (video)](https://youtu.be/vpBMY7eRZJk)*</sub>
 
+<sub>*[More screenshots](https://imgur.com/a/WH2Bemo)*</sub>
 
-//demo
-//screens
-//figma
-//other parts
-//imgur library
+<sub>*[Figma file](https://www.figma.com/file/m7a77mPB9OUqQ2Ao66uAw9/bcr?node-id=0%3A1&t=NMkC1OgRlfTrw1RM-1)*</sub>
+
+<sub>*Other parts of this bachelor project: [Identity provider project](https://gitlab.com/bitstrive/bpr/identity-provider/-/tree/master/), [Backend project](https://gitlab.com/bitstrive/bpr/back-end)*</sub>
