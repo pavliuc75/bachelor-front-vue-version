@@ -23,4 +23,4 @@
 <sub>*[More screenshots](https://imgur.com/a/WH2Bemo)*</sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <sub>*[Figma file](https://www.figma.com/file/m7a77mPB9OUqQ2Ao66uAw9/bcr?node-id=0%3A1&t=NMkC1OgRlfTrw1RM-1)*</sub>
 
-<sub>*Other parts of this bachelor project: [Identity provider project](https://gitlab.com/bitstrive/bpr/identity-provider/-/tree/master/), [Backend project](https://gitlab.com/bitstrive/bpr/back-end)*</sub>
+<sub>*Other parts of this bachelor project: [Identity provider project (has html pages)](https://gitlab.com/bitstrive/bpr/identity-provider/-/tree/master/), [Backend project](https://gitlab.com/bitstrive/bpr/back-end)*</sub>
