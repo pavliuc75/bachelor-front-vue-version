@@ -17,6 +17,7 @@
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-4.png?resize=106,230)&nbsp;&nbsp;&nbsp;
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-5.png?resize=106,230)&nbsp;&nbsp;&nbsp;
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-6.png?resize=106,230)&nbsp;&nbsp;&nbsp;
+![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-7.png?resize=106,230)&nbsp;&nbsp;&nbsp;
 
 
 //demo
