@@ -9,6 +9,7 @@
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_.png?resize=300,184)&nbsp;&nbsp;&nbsp;
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_-6.png?resize=300,184)&nbsp;&nbsp;&nbsp;
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_-4.png?resize=300,184)&nbsp;&nbsp;&nbsp;
+![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_-8.png?resize=300,184)&nbsp;&nbsp;&nbsp;
 <br></br>
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro.png?resize=106,230)&nbsp;&nbsp;&nbsp;
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-1.png?resize=106,230)&nbsp;&nbsp;&nbsp;
@@ -16,8 +17,6 @@
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-3.png?resize=106,230)&nbsp;&nbsp;&nbsp;
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-4.png?resize=106,230)&nbsp;&nbsp;&nbsp;
 ![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-5.png?resize=106,230)&nbsp;&nbsp;&nbsp;
-![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-6.png?resize=106,230)&nbsp;&nbsp;&nbsp;
-![](https://examenautomoldova.files.wordpress.com/2023/03/localhost_8080_iphone-12-pro-7.png?resize=106,230)&nbsp;&nbsp;&nbsp;
 <br/><br/>
 <sub>*[Demo (video)](https://youtu.be/vpBMY7eRZJk)*</sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <sub>*[More screenshots](https://imgur.com/a/WH2Bemo)*</sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
